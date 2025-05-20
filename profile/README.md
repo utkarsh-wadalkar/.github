@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @utkarsh-wadalkar
+- 👋 Hi, I’m utkarsh-wadalkar
 - 👀 I’m Love Coding in (HTML,CSS,C++,Python,SQL) Also a Wordpress Developer
 - 🌱 I’m currently Persuing Artificial Intelligence Data Science
 - 📫 How to reach me- mr.utkarshw@gmail.com
