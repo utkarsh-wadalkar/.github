@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m utkarsh-wadalkar
-- 👀 I’m Love Coding in (HTML,CSS,C++,Python,SQL) Also a Wordpress Developer
+- 👋 Hi, I’m utkarsh-wadalkar aspiring AI enginner
+- 👀 I’m Love Coding in (HTML,CSS,C++,Python,SQL)
 - 🌱 I’m currently Persuing Artificial Intelligence Data Science
 - 📫 How to reach me- mr.utkarshw@gmail.com
 
