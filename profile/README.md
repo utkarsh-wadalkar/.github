@@ -1,8 +1,14 @@
 
-- 👋 Hi, I’m utkarsh-wadalkar aspiring AI enginner
-- 👀 I’m Love Coding in (HTML,CSS,C++,Python,SQL)
-- 🌱 I’m currently Persuing Artificial Intelligence Data Science
-- 📫 How to reach me- mr.utkarshw@gmail.com
+🔭 I’m currently working on: Audora – a modern desktop music downloader, music player and library manager.
+
+🌱 I’m currently learning: MLOps, LLMOps, FastAPI, Electron, and advanced Python development.
+
+👯 I’m looking to collaborate on Python, AI engineering, automation workflows
+
+📫 How to reach me- mr.utkarshw@gmail.com
+
+⚡ Fun fact: I enjoy turning technical workflows into simple, user-friendly automation and applications.
+
 
 
 <!---
