@@ -1,4 +1,3 @@
-
 🔭 I’m currently working on: Audora – a modern desktop music downloader, music player and library manager.
 
 🌱 I’m currently learning: MLOps, LLMOps, FastAPI, Electron, and advanced Python development.
