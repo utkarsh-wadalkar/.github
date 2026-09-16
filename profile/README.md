@@ -15,6 +15,12 @@
     width = 500px
   />
 </a>
+ <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
+  <img
+    src = "https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/report.png"
+    height = 390px
+  />
+</a>
 
 
 <!---
