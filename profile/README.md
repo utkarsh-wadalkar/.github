@@ -11,7 +11,7 @@
 
  <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
   <img
-    src = "https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/hero.png"
+    src = "https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
     width = 500px
   />
 </a>
