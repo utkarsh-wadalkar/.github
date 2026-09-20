@@ -4,9 +4,9 @@
 
   <br />
 
-  <!-- Typing SVG: Builder Protocol -->
+  <!-- Typing SVG: Monochrome builder protocol -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1200&color=FFD700&center=true&vCenter=true&width=780&lines=_System.Initialize(Utkarsh);_Deploy:Applied.AI.Systems();_Engineer:Production.ML.Pipelines();_Automate:Human.Friendly.Workflows();_Build:Real.World.Problem.Solvers()" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1200&color=D7D9DD&center=true&vCenter=true&width=780&lines=_System.Initialize(Utkarsh);_Deploy:Applied.AI.Systems();_Engineer:Production.ML.Pipelines();_Automate:Human.Friendly.Workflows();_Build:Real.World.Problem.Solvers()" alt="Typing introduction" />
   </a>
 
   <br />
