@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="850" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">Utkarsh Wadalkar</title>
+  <desc id="desc">Animated cyber terminal header for an AI engineer and systems builder.</desc>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700;800&amp;display=swap');
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; }
+      .telemetry { fill: #58a6ff; font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+      .status { fill: #00ff87; font-size: 11px; font-weight: 700; letter-spacing: 1.25px; }
+      .shadow { fill: #8a6900; font-size: 49px; font-weight: 800; letter-spacing: 7px; text-anchor: middle; }
+      .name { fill: #ffd700; font-size: 49px; font-weight: 800; letter-spacing: 7px; text-anchor: middle; }
+      .subtitle { fill: #e6edf3; font-size: 13px; font-weight: 600; letter-spacing: 1.75px; text-anchor: middle; }
+      .bracket { fill: #ffd700; font-weight: 700; }
+      .tag { fill: #79c0ff; font-size: 11.5px; font-weight: 600; letter-spacing: .9px; }
+      .muted { fill: #484f58; }
+    </style>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#161b22" stroke-width=".8" />
+    </pattern>
+    <linearGradient id="scan" gradientUnits="userSpaceOnUse" x1="0" y1="15" x2="0" y2="195">
+      <stop offset="0" stop-color="#ffd700" stop-opacity="0" />
+      <stop offset=".5" stop-color="#ffd700" stop-opacity=".85" />
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="850" height="210" fill="#0d1117" />
+  <rect width="850" height="210" fill="url(#grid)" opacity=".9" />
+
+  <line x1="25" y1="15" x2="25" y2="195" stroke="url(#scan)" stroke-width="2.5" opacity=".55">
+    <animate attributeName="x1" values="25;825;25" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="x2" values="25;825;25" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values=".2;.7;.2" dur="7s" repeatCount="indefinite" />
+  </line>
+
+  <rect x="15" y="15" width="820" height="180" fill="none" stroke="#21262d" />
+  <g stroke="#ffd700" stroke-width="2.5" fill="none">
+    <path d="M15 45V15H45 M805 15H835V45 M15 165V195H45 M805 195H835V165" />
+  </g>
+  <g stroke="#ffd700" stroke-width="1.5">
+    <path d="M420 15H430 M15 100H22 M828 100H835 M420 195H430" />
+  </g>
+
+  <g class="mono">
+    <g transform="translate(32 34)">
+      <circle cy="-3.5" r="3.5" fill="#00ff87">
+        <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="12" class="telemetry">SYS_ID: UTKARSH-01 // PROTOCOL: BUILDER ACTIVE</text>
+      <text x="786" class="status" text-anchor="end">[ OPEN_TO: AI OPPORTUNITIES ]
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" repeatCount="indefinite" />
+      </text>
+    </g>
+
+    <g transform="translate(425 102)">
+      <text x="3" y="3" class="shadow">UTKARSH</text>
+      <text class="name" filter="url(#glow)">UTKARSH</text>
+    </g>
+
+    <text x="425" y="136" class="subtitle"><tspan class="bracket">&lt; </tspan>AI ENGINEER • APPLIED ML &amp; INTELLIGENT AUTOMATION<tspan class="bracket"> /&gt;</tspan></text>
+
+    <line x1="20" y1="158" x2="830" y2="158" stroke="#21262d" />
+    <line x1="365" y1="158" x2="485" y2="158" stroke="#30363d" stroke-width="1.5" />
+
+    <text x="425" y="181" text-anchor="middle" class="tag">
+      <tspan class="muted">[ </tspan>PYTHON / ML<tspan class="muted"> ]  •  [ </tspan>AI AGENTS<tspan class="muted"> ]  •  [ </tspan>MLOPS<tspan class="muted"> ]  •  [ </tspan>FULL-STACK<tspan class="muted"> ]</tspan>
+    </text>
+  </g>
+</svg>
