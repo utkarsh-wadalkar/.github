@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.svg" alt="Utkarsh Wadalkar - AI Engineer and Systems Builder" width="100%" />
+  <img src="profile/header.svg" alt="Utkarsh Wadalkar - AI Engineer and Systems Builder" width="100%" />
 
   <br />
 
@@ -18,7 +18,7 @@
 ### `>_ System.Identity`
 
 <div align="center">
-  <img src="neofetch.svg" alt="Utkarsh Wadalkar neofetch profile" width="740" />
+  <img src="profile/neofetch.svg" alt="Utkarsh Wadalkar neofetch profile" width="740" />
 </div>
 
 ---
