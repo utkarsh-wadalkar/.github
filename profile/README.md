@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.svg" alt="Utkarsh Wadalkar - AI Engineer and Systems Builder" width="100%" />
+  <img src="profile/header.svg" alt="Utkarsh Wadalkar - AI Engineer and Systems Builder" width="100%" />
 
   <br />
 
@@ -18,7 +18,7 @@
 ### `>_ System.Identity`
 
 <div align="center">
-  <img src="neofetch.svg" alt="Utkarsh Wadalkar neofetch profile" width="740" />
+  <img src="profile/neofetch.svg" alt="Utkarsh Wadalkar neofetch profile" width="740" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 | **🤖 Agentic AI** | [**`AI-interview-Qs-gen`**](https://github.com/utkarsh-wadalkar/AI-interview-Qs-gen) | Full-stack AI platform for tailored interview questions, history, favorites, and secure user sessions. | ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![OpenRouter](https://img.shields.io/badge/-OpenRouter-000000?style=flat-square&logo=openai&logoColor=white) |
 | **👁️ Vision & Web3** | [**`FaceChain`**](https://github.com/utkarsh-wadalkar/FaceChain) | Face verification pipeline combining biometric fingerprints, reverse search, and immutable on-chain records. | ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFD43B) ![Polygon](https://img.shields.io/badge/-Polygon-000000?style=flat-square&logo=polygon&logoColor=8247E5) |
 | **⚙️ MLOps** | [**`ML-Pipeline`**](https://github.com/utkarsh-wadalkar/ML-Pipeline) | Reproducible ML pipeline with experiment tracking and DVC-backed data versioning on AWS S3. | ![DVC](https://img.shields.io/badge/-DVC-000000?style=flat-square&logo=dvc&logoColor=13ADC7) ![AWS](https://img.shields.io/badge/-AWS_S3-000000?style=flat-square&logo=amazons3&logoColor=569A31) |
-| **🧬 Applied ML** | [**`Parkinson-Disease-Prediction`**](https://github.com/utkarsh-wadalkar/Parkinson-Disease-Prediction) | Biomedical voice-feature analysis with preprocessing, EDA, and multi-model disease prediction. | ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E) |
+| **🧬 Applied ML** | [**`Parkinson-Disease-Prediction`**](https://github.com/utkarsh-wadalkar/Parkinson-Disease-Prediction) | Biomedical analysis with preprocessing, EDA, and multi-model disease prediction. | ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E) |
 | **📈 Predictive ML** | [**`Sales-Forecasting`**](https://github.com/utkarsh-wadalkar/Sales-Forecasting-using-Machine-Learning) | End-to-end retail forecasting with data cleaning, feature engineering, EDA, and model tuning. | ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=150458) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFD43B) |
 
 </div>
@@ -51,7 +51,6 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=5391FE)
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
