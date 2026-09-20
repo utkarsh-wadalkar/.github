@@ -106,18 +106,19 @@
 ### `>_ Encrypted Data // Live Telemetry`
 
 <div align="center">
-
+<a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
+  <img
+    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
+    alt="WhoBurnedMore stats"
+    style="width: 600px; height: auto;"
+  />
+</a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical" alt="GitHub profile details" />
 
   <br />
 
   <img src="https://streak-stats.demolab.com/?user=utkarsh-wadalkar&theme=radical" alt="GitHub streak stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh-wadalkar&theme=radical" alt="GitHub stats" />
-
-  <br />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarsh-wadalkar&theme=radical&utcOffset=5.5" alt="GitHub productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsh-wadalkar&theme=radical" alt="Repositories per language" />
 
 </div>
 
@@ -135,16 +136,12 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/utkarsh-wadalkar" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB_HQ-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:mr.utkarshw@gmail.com">
     <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://audora-download.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_PROJECT-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Audora live site" />
+    <img src="https://img.shields.io/badge/Download Audora-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Download Audora" />
   </a>
 
   <br /><br />
