@@ -23,7 +23,7 @@
 
 ---
 
-### `>_ Classified Ops // Pinned & Flagship Repos`
+### `>_ Pinned & Flagship Repos`
 
 <div align="center">
 
@@ -103,14 +103,14 @@
 
 ---
 
-### `>_ Encrypted Data // Live Telemetry`
+### `>_ Live Telemetry`
 
 <div align="center">
 <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
   <img
-    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
+    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/hero.png"
     alt="WhoBurnedMore stats"
-    style="width: 600px; height: auto;"
+    style="width: 300px; height: auto;"
   />
 </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical" alt="GitHub profile details" />
