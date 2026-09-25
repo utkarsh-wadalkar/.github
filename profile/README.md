@@ -108,9 +108,9 @@
 <div align="center">
 <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
   <img
-    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/hero.png"
+    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
     alt="WhoBurnedMore stats"
-    style="width: 300px; height: auto;"
+    style="width: 600px; height: auto;"
   />
 </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical" alt="GitHub profile details" />
