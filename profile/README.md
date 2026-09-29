@@ -48,7 +48,6 @@
 
 **`>_ CORE LANGUAGES`**<br>
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -75,8 +74,6 @@
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=E70488)
 ![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![RAG & Agents](https://img.shields.io/badge/RAG_%26_AGENTS-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Knowledge Graphs](https://img.shields.io/badge/KNOWLEDGE_GRAPHS-000000?style=for-the-badge&logo=neo4j&logoColor=4581C3)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
@@ -86,7 +83,6 @@
 **`>_ DEVOPS, CLOUD & AUTOMATION`**<br>
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
