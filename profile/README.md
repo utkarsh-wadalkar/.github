@@ -142,7 +142,5 @@
   </a>
 
   <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=utkarsh-wadalkar&label=SYS.ACCESS_COUNT&color=FFD700&style=for-the-badge" alt="Profile views" />
-
+![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-wadalkar&label=Profile%20Views&style=for-the-badge)
 </div>
