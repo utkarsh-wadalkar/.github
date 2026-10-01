@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?account_id=148522333)
 <div align="center">
 
   <img src="profile/header.svg" alt="Utkarsh Wadalkar - AI Engineer and Systems Builder" width="100%" />
