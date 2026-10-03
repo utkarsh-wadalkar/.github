@@ -14,14 +14,6 @@
 
 </div>
 
-<br />
-
-### `>_ System.Identity`
-
-<div align="center">
-  <img src="profile/neofetch.svg" alt="Utkarsh Wadalkar neofetch profile" width="740" />
-</div>
-
 ---
 
 ### `>_ Pinned & Flagship Repos`
