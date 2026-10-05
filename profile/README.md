@@ -128,10 +128,7 @@
   <a href="mailto:mr.utkarshw@gmail.com">
     <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://audora-download.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Download Audora-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Download Audora" />
-  </a>
+
 
   <br /><br />
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-wadalkar&label=Profile%20Views&style=for-the-badge)
