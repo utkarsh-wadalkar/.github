@@ -92,23 +92,17 @@
 
 ---
 
+
 ### `>_ Live Telemetry`
 
 <div align="center">
-<a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
-  <img
-    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
-    alt="WhoBurnedMore stats"
-    style="width: 600px; height: auto;"
-  />
-</a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical" alt="GitHub profile details" />
-
+  <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
+    <img src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png" width="600" alt="WhoBurnedMore stats" />
+  </a>
   <br />
-
-  <img src="https://streak-stats.demolab.com/?user=utkarsh-wadalkar&theme=radical" alt="GitHub streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh-wadalkar&theme=radical" alt="GitHub stats" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical&bg_color=0A0A0A&title_color=F97007&text_color=ffffff&border_color=0A0A0A&icon_color=F97007&chart_color=F97007" width="600" alt="GitHub profile details" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=utkarsh-wadalkar&theme=radical&background=0A0A0A&border=0A0A0A&stroke=333333&ring=F97007&fire=F97007&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97007&sideLabels=F97007&dates=cccccc" height="190" alt="GitHub streak stats" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh-wadalkar&theme=radical&bg_color=0A0A0A&title_color=F97007&text_color=ffffff&border_color=0A0A0A&icon_color=F97007" height="190" alt="GitHub stats" />
 </div>
 
 ---
