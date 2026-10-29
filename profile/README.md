@@ -97,8 +97,8 @@
 ### `>_ Live Telemetry`
 
 <div align="center">
-  <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
-    <img src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png" width="600" alt="WhoBurnedMore stats" />
+  <a href="https://whoburnedmore.com/u/utkarshw16">
+    <img src="https://wbm-card.vercel.app/api/card/utkarshw16/landscape.png" width="600" alt="WhoBurnedMore stats" />
   </a>
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh-wadalkar&theme=radical&bg_color=0A0A0A&title_color=F97007&text_color=ffffff&border_color=0A0A0A&icon_color=F97007&chart_color=F97007" width="600" alt="GitHub profile details" />
